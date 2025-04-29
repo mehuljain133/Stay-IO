@@ -8,10 +8,6 @@ The frontend appication is built on Vue.js and the backend is a JWT-authenticate
 
 The application is available to be deployed in a multi-container deployment according to the `docker-compose.yml` file in the repository.
 
-[View CI Build Status](http://travis-ci.com/github/sudiptog81/stay.io)
-
-[View GitHub Workflows](https://github.com/sudiptog81/stay.io/actions)
-
 ## Quick Start
 
 Set up a VirtualHost in your web server that points to the backend of the application.
