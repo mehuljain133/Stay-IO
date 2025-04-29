@@ -86,10 +86,6 @@ Install all required dependencies in `backend` and `frontend` directories by exe
 
 Tests can be run in `backend` and `frontend` directories by executing `npm test` in either one of them for triggering the respective test suites.
 
-## API Reference
-
-The REST API Documentation is hosted at [SwaggerHub](https://app.swaggerhub.com/apis-docs/sudiptog81/stay.io/1.0.0).
-
 ## License
 
 The MIT Open-Source License
